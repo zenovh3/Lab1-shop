@@ -1,3 +1,7 @@
+@media (max-width: 600px) {
+   
+
+
 body{
     background-color: #A874D2;
     color: #F5F5F5;
@@ -262,4 +266,5 @@ h2{
     color: #333;
     font-weight: 600;
     cursor: pointer;
+}
 }
