@@ -199,3 +199,67 @@ h2{
     font-weight: bold;
     border-radius: 100px;
 }
+
+.product-detail img{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.product-detail a{
+    display: block;
+    width: 200px;
+    margin-left: 80px;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+
+}
+
+.product-detail {
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px; 
+    margin-left: 40px;
+}
+
+.product-detail h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.product-detail form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.product-detail label {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.product-detail input,
+.product-detail textarea {
+    border: none;
+    padding: 14px 15px;
+    border-radius: 25px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.product-detail textarea {
+    height: 130px;
+    resize: none;
+    border-radius: 20px;
+}
+
+.product-detail input[type="submit"] {
+    color: #333;
+    font-weight: 600;
+    cursor: pointer;
+}
