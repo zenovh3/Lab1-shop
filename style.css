@@ -1,0 +1,201 @@
+body{
+    background-color: #A874D2;
+    color: #F5F5F5;
+}
+
+h1{
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    margin: 10px;
+    text-align: center;
+}
+
+p{
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+h2{
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    margin: 10px;
+}
+
+.mindy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.images img{
+    width: 100px;
+    height: 100px;
+}
+
+.button{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+}
+
+.button a{
+    text-decoration: none;
+    color: #F5F5F5;
+}
+
+.knuffel{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.knuffel h2{
+    margin-top: 20px;
+    font-size: 1.9em;
+}
+
+.knuffel img{
+    width: 200px;
+    height: 200px;
+}
+
+.knuffel p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.knuffel a{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+}
+
+.stressball{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.stressball h2{
+    margin-top: 20px;
+    font-size: 1.9em;
+}
+
+.stressball img{
+    width: 200px;
+    height: 200px;
+}
+
+.stressball p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.stressball a{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+}
+
+.puzzle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.puzzle h2{
+    margin-top: 20px;
+    font-size: 1.9em;
+}
+
+.puzzle img{
+    width: 200px;
+    height: 200px;
+}
+
+.puzzle p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.puzzle a{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+}     
+ 
+.notebook{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.notebook h2{
+    margin-top: 20px;
+    font-size: 1.9em;
+}
+
+.notebook img{
+    width: 200px;
+    height: 200px;
+}
+
+.notebook p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.notebook a{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #7DDE92;
+    color: #F5F5F5;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 100px;
+}
