@@ -34,8 +34,7 @@ h2{
 
 .images{
     display: flex;
-    justify-content: center;
-    gap: 20px;
+    justify-content: space-between;
     margin-top: 20px;
 }
 .images img{
@@ -73,8 +72,8 @@ h2{
 }
 
 .knuffel img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .knuffel p{
@@ -108,8 +107,8 @@ h2{
 }
 
 .stressball img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .stressball p{
@@ -143,8 +142,8 @@ h2{
 }
 
 .puzzle img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .puzzle p{
@@ -178,8 +177,8 @@ h2{
 }
 
 .notebook img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .notebook p{
