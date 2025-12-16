@@ -201,29 +201,29 @@ h2{
 
 .product-detail img{
     margin-top: 50px;
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 
 
 
 .product-detail a{
     display: block;
-    width: 150px;
-    padding: 10px;
+    width: 200px;
+    padding: 5px;
     background-color: #7DDE92;
     color: #F5F5F5;
     text-decoration: none;
     text-align: center;
     font-weight: bold;
-    border-radius: 50px;
+    border-radius: 30px;
     margin-left: 30px;
 }
 
 .product-detail {
-    padding: 30px;
+    padding: 10px;
     border-radius: 10px;
-    width: 350px; 
+    width: 300px; 
 }
 
 .buttons{
