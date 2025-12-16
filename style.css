@@ -205,17 +205,18 @@ h2{
     height: 400px;
 }
 
+
+
 .product-detail a{
     display: block;
-    width: 200px;
-    margin-left: 80px;
+    width: 150px;
     padding: 10px;
     background-color: #7DDE92;
     color: #F5F5F5;
     text-decoration: none;
     text-align: center;
     font-weight: bold;
-    border-radius: 100px;
+    border-radius: 50px;
 
 }
 
@@ -224,6 +225,12 @@ h2{
     border-radius: 10px;
     width: 350px; 
     margin-left: 40px;
+}
+
+.buttons{
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
 }
 
 .product-detail h2 {
